@@ -1,0 +1,149 @@
+{
+  "destinos": [
+    {
+      "nombre": "París",
+      "pais": "Francia",
+      "id": "fr",
+      "moneda": "Euro",
+      "idioma": "Francés",
+      "imagen": "https://images.unsplash.com/photo-1508050919630-b135583b29ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+      "población": "2.1 millones",
+      "atracciones": [
+        {
+          "nombre": "Torre Eiffel",
+          "url": "https://www.toureiffel.paris/fr"
+        },
+        {
+          "nombre": "Museo del Louvre",
+          "url": "https://www.louvre.fr/fr"
+        },
+        {
+          "nombre": "Catedral de Notre Dame",
+          "url": "https://www.notredamedeparis.fr/fr/"
+        },
+        {
+          "nombre": "Arco de Triunfo",
+          "url": "https://arc-de-triomphe.monuments-nationaux.fr/fr/"
+        }
+      ],
+      "plan_de_vuelo": "Vuelo directo desde Nueva York",
+      "valor_estimado": "$800"
+    },
+    {
+      "nombre": "Nueva York",
+      "pais": "Estados Unidos",
+      "id": "us",
+      "moneda": "Dólar estadounidense",
+      "idioma": "Inglés",
+      "imagen": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "población": "8.4 millones",
+      "atracciones": [
+        {
+          "nombre": "Estátua de la Liberdade",
+          "url": "https://www.nps.gov/stli/index.htm"
+        },
+        {
+          "nombre": "Empire State Building",
+          "url": "https://www.esbnyc.com/"
+        },
+        {
+          "nombre": "Times Square",
+          "url": "https://www.timessquarenyc.org/"
+        },
+        {
+          "nombre": "Central Park",
+          "url": "https://www.centralparknyc.org/"
+        }
+      ],
+      "plan_de_vuelo": "Vuelo directo desde Londres",
+      "valor_estimado": "$900"
+    },
+    {
+      "nombre": "Barcelona",
+      "pais": "España",
+      "id": "es",
+      "moneda": "Euro",
+      "idioma": "Catalán",
+      "imagen": "https://images.unsplash.com/photo-1583422409516-2895a77efded?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "población": "1.6 millones",
+      "atracciones": [
+        {
+          "nombre": "La Sagrada Familia",
+          "url": "https://www.sagradafamilia.org/es/"
+        },
+        {
+          "nombre": "Parque Güell",
+          "url": "https://www.parkguell.cat/es/"
+        },
+        {
+          "nombre": "Las Ramblas",
+          "url": "https://www.barcelona.cat/es/"
+        },
+        {
+          "nombre": "Camp Nou",
+          "url": "https://www.fcbarcelona.es/es/"
+        }
+      ],
+      "plan_de_vuelo": "Vuelo directo desde París",
+      "valor_estimado": "$600"
+    },
+    {
+      "nombre": "Roma",
+      "pais": "Italia",
+      "id": "it",
+      "moneda": "Euro",
+      "idioma": "Italiano",
+      "imagen": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1096&q=80",
+      "población": "2.8 millones",
+      "atracciones": [
+        {
+          "nombre": "El Coliseo",
+          "url": "https://www.coopculture.it/en/colosseo-e-shop.cfm"
+        },
+        {
+          "nombre": "Basílica de San Pedro",
+          "url": "https://www.vatican.va/various/basiliche/san_pietro/index_it.htm"
+        },
+        {
+          "nombre": "Fuentes de Trevi",
+          "url": "https://www.turismoroma.it/en/places/fontana-di-trevi"
+        },
+        {
+          "nombre": "El Panteón",
+          "url": "https://www.pantheonroma.com/"
+        }
+      ],
+      "plan_de_vuelo": "Vuelo directo desde Barcelona",
+      "valor_estimado": "$700"
+    },
+    {
+      "nombre": "Londres",
+      "pais": "Reino Unido",
+      "id": "uk",
+      "moneda": "Libra esterlina",
+      "idioma": "Inglés",
+      "imagen": "https://images.unsplash.com/photo-1520967824495-b529aeba26df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+      "población": "8.9 millones",
+      "atracciones": [
+        {
+          "nombre": "Big Ben",
+          "url": "https://www.parliament.uk/big-ben"
+        },
+        {
+          "nombre": "London Eye",
+          "url": "https://www.londoneye.com"
+        },
+        {
+          "nombre": "Abadía de Westminster",
+          "url": "https://www.westminster-abbey.org"
+        },
+        {
+          "nombre": "Tower Bridge",
+          "url": "https://www.towerbridge.org.uk"
+        }
+      ],
+      "plan_de_vuelo": "Vuelo directo desde Nueva York",
+      "valor_estimado": "$1000"
+    }
+  ]
+}

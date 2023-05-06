@@ -1,0 +1,9 @@
+
+  .hotelCards {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 1rem;
+  margin-bottom: 6rem;
+  }

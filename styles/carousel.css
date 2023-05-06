@@ -1,0 +1,18 @@
+.carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+  }
+
+
+  /* @media screen and (max-width: 620px) {
+    .carousel {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: .5rem;
+      max-width: 25rem;
+      padding: .5rem;
+    }
+  } */
